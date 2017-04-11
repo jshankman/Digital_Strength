@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Jake Shankman'
 SITENAME = 'Digital Strength'
-SITEURL = ''
+SITEURL = 'jshankman.github.io/Digital_Strength'
 
 PATH = 'content'
 
@@ -32,4 +32,4 @@ SOCIAL = (('github', 'https://github.com/jshankman'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
